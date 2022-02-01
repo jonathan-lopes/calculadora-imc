@@ -1,8 +1,8 @@
 # Calculadora IMC
 
-Aplicação que realiza o cálculo de [Índice de massa corporal](https://pt.wikipedia.org/wiki/%C3%8Dndice_de_massa_corporal).
+Aplicação que realiza o cálculo de [Índice de massa corporal](https://pt.wikipedia.org/wiki/%C3%8Dndice_de_massa_corporal) (IMC).
 
-Disponivel tambem no meu [GitHub Pages](https://jonathan-lopes.github.io/getkcal/)
+Disponivel no link [calculadora-imc](https://jonathan-lopes-calculadora-imc.netlify.app/)
 
 ## Instalação
 
